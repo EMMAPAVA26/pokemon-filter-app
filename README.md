@@ -1,8 +1,41 @@
-# React + Vite
+# 🎮 Pokémon Filter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto en **React + Vite** donde puedes visualizar y filtrar una lista de Pokémon.  
+La aplicación permite buscar Pokémon por nombre y mostrar información básica de cada uno.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologías utilizadas
+
+- ⚛️ React  
+- ⚡ Vite  
+- 🎨 CSS / Tailwind (si aplicaste estilos)  
+- 📦 npm  
+
+---
+
+## 📂 Instalación y uso
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/EMMAPAVA26/pokemon-filter-app.git
+   cd pokemon-filter-app
+
+✨ Funcionalidades
+
+📋 Listado de Pokémon.
+
+🔍 Búsqueda de Pokémon por nombre.
+
+🎨 Interfaz simple y responsiva.
+
+📸 Capturas
+
+https://pokemon-filter-app.vercel.app/grass
+
+
+👩‍💻 Autor
+
+Desarrollado por Emma Pava
+ 💜
+
