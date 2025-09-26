@@ -20,6 +20,9 @@ La aplicación permite buscar Pokémon por nombre y mostrar información básica
    ```bash
    git clone https://github.com/EMMAPAVA26/pokemon-filter-app.git
    cd pokemon-filter-app
+   git commit -m "Subo todo el código del proyecto Pokémon"
+   git push origin main
+
 
 ✨ Funcionalidades
 
